@@ -175,7 +175,7 @@ const roberto = {
 
 ### 🐍 Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/ganglio/ganglio/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ganglio/ganglio/github-contribution-grid-snake.svg)
 
 ---
 
