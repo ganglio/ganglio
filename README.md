@@ -10,6 +10,10 @@
   <img src="https://komarev.com/ghpvc/?username=ganglio&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+<p align="center">
+  <a href="CV.md">📄 View Full CV</a>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
