@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Ganglio+%F0%9F%91%8B;Welcome+to+my+digital+space+%F0%9F%9A%80;Let's+build+something+amazing!+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Roberto+%F0%9F%91%8B;Welcome+to+my+digital+space+%F0%9F%9A%80;Let's+build+something+amazing!+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🚀 Software Engineer | Problem Solver | Tech Enthusiast 🚀</h3>
@@ -84,7 +84,7 @@ I'm a passionate software engineer who loves crafting elegant solutions to compl
 ### 🏆 Highlights
 
 ```javascript
-const ganglio = {
+const roberto = {
     code: ["Python", "JavaScript", "TypeScript", "Java", "Go"],
     askMeAbout: ["web dev", "backend systems", "cloud architecture", "automation"],
     technologies: {
@@ -123,7 +123,7 @@ const ganglio = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganglio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robertotorella)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ganglio)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganglio@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ganglio.dev)
